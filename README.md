@@ -1,6 +1,6 @@
 # messagespammer.py
 # Made for and on Linux Mint OS (Ubuntu) / macO (M1)
-# Using this script may violate some companies policies and T.O.S depending on where you use it and in what context, so be warned.
+# Using this script may violate some companies policies and T.O.S depending on where you use it and in what context, so be warned. Im not to blame for anything that happens to you if you get introuble.
 
 A simple python script that spams what ever message you want.
 Can literally be used basically anywhere
